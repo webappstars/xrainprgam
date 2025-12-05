@@ -14,7 +14,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 
 [![Powered by DartNode](<a href="https://dartnode.com/_branding/color_black_icon.png">
-  <img src="https://dartnode.com/_branding/color_black_icon.png" width="300" />
+  <img src="https://dartnode.com/_branding/color_black_icon.png" width="100" />
 </a>)]
 
 
