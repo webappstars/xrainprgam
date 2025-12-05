@@ -10,7 +10,7 @@ duplicated_from: sadsadewqeqw/wqeee
 ---
 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 
 
 [![Powered by DartNode](<a href="https://dartnode.com/_branding/color_black_icon.png">
